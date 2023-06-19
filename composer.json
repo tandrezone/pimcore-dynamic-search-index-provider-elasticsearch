@@ -1,5 +1,5 @@
 {
-    "name": "dachcom-digital/dynamic-search-index-provider-elasticsearch",
+    "name": "tandrezone/dynamic-search-index-provider-elasticsearch",
     "type": "dynamic-search-provider-bundle",
     "license": "GPL-3.0-or-later",
     "description": "",
