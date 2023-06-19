@@ -27,7 +27,7 @@
         "pimcore/pimcore": "^10.1",
         "dachcom-digital/dynamic-search": "^2.0",
         "elasticsearch/elasticsearch": "*",
-        "handcraftedinthealps/elasticsearch-dsl": "^7.0"
+        "tandrezone/elasticsearch-dsl": "*"
     },
     "require-dev": {
         "codeception/codeception": "^4.1",
